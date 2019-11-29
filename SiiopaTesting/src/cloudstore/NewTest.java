@@ -31,7 +31,7 @@ public class NewTest {
 
 	}
 
-	@Test(priority = 10)
+	@Test(priority = 19)
 	public void asserttest() {
 
 		String title = sadhin.getTitle();
